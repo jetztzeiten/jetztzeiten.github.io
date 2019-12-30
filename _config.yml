@@ -23,11 +23,10 @@ github_username:  jetztzieten
 
 # Build settings
 markdown: kramdown
-remote_theme: patdryburgh/hitchens
-# theme: hitchens-theme
 
-hide_credits: true
-hide_search: true
+# Theme
+remote_theme: jetztzeiten/jekyll-theme-console 
+# theme: hitchens-theme
 
 plugins:
   - jekyll-feed

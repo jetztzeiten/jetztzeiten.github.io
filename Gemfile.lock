@@ -246,7 +246,7 @@ DEPENDENCIES
   github-pages (~> 203)
   hitchens-theme
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll-remote-theme
   tzinfo-data
 
 BUNDLED WITH
