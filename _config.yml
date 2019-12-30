@@ -23,6 +23,14 @@ github_username:  jetztzieten
 
 # Build settings
 markdown: kramdown
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+listen_for_clients_preferred_style: true
+
+footer: 'DOLOR SIT AMEN – ΕΡΩΜΕΝΟΣ'
 
 # Theme
 remote_theme: jetztzeiten/jekyll-theme-console 
