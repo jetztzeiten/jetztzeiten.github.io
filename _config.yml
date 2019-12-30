@@ -25,6 +25,10 @@ github_username:  jetztzieten
 markdown: kramdown
 remote_theme: patdryburgh/hitchens
 # theme: hitchens-theme
+
+hide_credits: true
+hide_search: true
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
