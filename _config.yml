@@ -26,9 +26,11 @@ github_username:  jetztzieten
 
 # Build settings
 markdown: kramdown
-theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
+# theme: hitchens-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
