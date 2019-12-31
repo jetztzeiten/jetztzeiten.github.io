@@ -39,6 +39,10 @@ remote_theme: jetztzeiten/jekyll-theme-console
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
