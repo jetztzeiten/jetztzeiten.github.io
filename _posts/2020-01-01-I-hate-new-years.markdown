@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Hate New Years"
-date:   2019-01-01 00:00:00 +0000
+date:   2020-01-01 00:00:00 +0000
 categories: [Gramsci, Critical Theory]
 permalink: /I-hate-new-years
 ---
